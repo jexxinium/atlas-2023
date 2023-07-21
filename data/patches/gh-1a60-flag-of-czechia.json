@@ -1,0 +1,59 @@
+{
+	"id": 288,
+	"name": "Flag of Czechia",
+	"description": "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Czech_Republic"
+		],
+		"subreddit": [
+			"czech"
+		]
+	},
+	"path": {
+		"26-46": [
+			[
+				480,
+				-155
+			],
+			[
+				480,
+				-132
+			],
+			[
+				500,
+				-132
+			],
+			[
+				500,
+				-155
+			],
+			[
+				500,
+				-185
+			],
+			[
+				399,
+				-186
+			],
+			[
+				399,
+				-120
+			],
+			[
+				500,
+				-120
+			],
+			[
+				500,
+				-134
+			]
+		]
+	},
+	"center": {
+		"26-46": [
+			447,
+			-153
+		]
+	}
+}
